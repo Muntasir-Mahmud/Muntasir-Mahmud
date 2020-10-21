@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Muntasir Mahmud
+I'm an Electrical Engineering student from Bangladesh. I really enjoy coding in python and javascript, learning framework like Django.
+
+Skills: Python / django / HTML / CSS / JS
 
 <!--
-**Muntasir-Mahmud/Muntasir-Mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
