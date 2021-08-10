@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Muntasir Mahmud
 I'm an Electrical Engineering student from Bangladesh. I really enjoy coding in python and javascript, learning framework like Django.
 
-Skills: Python / Django / HTML / CSS / JS
+Skills: Python / Django / React / Redux / HTML / CSS / JS
 
 <!--
 - 🔭 I’m currently working on ...
