@@ -1,15 +1,16 @@
 ### Hi there 👋, I'm Muntasir Mahmud
-I'm an Electrical Engineering student from Bangladesh. I really enjoy coding in python and javascript, learning framework like Django.
+I'm a Software Engineer
 
-Skills: Python / Django / React / Redux / HTML / CSS / JS
+## 🔧 Skills & Technologies
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks & Libraries:** NestJS, NextJS, FastAPI, Django, Redux
+- **Other:** Version control with Git, RESTful APIs, Responsive Design, DevOps, 
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on Fitsomnia App
+- 🌱 I’m currently learning Generative AI, NestJS, DevOps
+- 👯 I’m looking to collaborate on Al applications
+
+
